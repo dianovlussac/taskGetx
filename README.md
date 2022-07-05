@@ -2,7 +2,7 @@
 
 Flutter project.
 
-This project is a getx Flutter application.
+This project is a getx Flutter application. Implementation using GetX on flutter app.
 
 A few resources to get you started if this is your first Flutter project:
 
